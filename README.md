@@ -4,7 +4,7 @@ ___
 This Repo will contain the code for a yet-to-make application for the [Accountability Hack 2016](https://accountabilityhack.nl/).
 The application will use Angular 1.5 and is based on the [Angular NG6-starter](https://github.com/AngularClass/NG6-starter)
 
-Below you can find the bare instruction to get up running with this repo. More elaborate instructions can be found in de [Readme of NG6-starter](https://github.com/AngularClass/NG6-starter/blob/master/README.md).
+Below you can find the bare instructions to get up running with this repo. More elaborate instructions can be found in de [Readme of NG6-starter](https://github.com/AngularClass/NG6-starter/blob/master/README.md).
 
 ## Installing
 * `clone` this repo
